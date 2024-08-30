@@ -8,13 +8,13 @@ In addition to my blockchain expertise, I am a capable web developer with a stro
 
 ## Blockchain Development
 
-Blockchain Platforms: EVM, Solana, TON
-Smart Contracts: Development and deployment
-dApps: Creating decentralized applications
-Bots: Trading, Snipers, arbitrage, and volume bots
+- Blockchain Platforms: EVM, Solana, TON
+- Smart Contracts: Development and deployment
+- dApps: Creating decentralized applications
+- Bots: Trading, Snipers, arbitrage, and volume bots
 
 ## Web Development
-Backend Technologies: Node.js, Nest.js, Python (Django), Laravel
-Frontend Technologies: React, Vue, Next.js, Angular
-Languages: Java, Rust
-
+- Node.js, React.js, Vue.js, Angular.js, Next.js
+- Ruby on Rails
+- Rocket
+- Gin, Echo
